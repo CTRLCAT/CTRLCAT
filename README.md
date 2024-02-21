@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @CTRLCAT
-- 🎓 I'm a biomedical engineer
-- 🧠 I have research experience in social neuroscience
-- 🦿 I can build 3D printed prosthetics
+- 🎓 I'm a biomedical engineer and data analyst
 - 👀 I’m interested in health + social behavior + data
-- 🌱 I’m currently studying a master in data analytics
-- 💞️ I’m looking to collaborate on projects that improve quality of life and share knowledge
+- 🧩 I’m looking to collaborate on projects that improve quality of life
 - 📫 How to reach me cacevedotriana@gmail.com
 
 <!---
