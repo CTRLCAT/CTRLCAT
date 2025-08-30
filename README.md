@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CTRLCAT
 - 🎓 I'm a biomedical engineer and data analyst
-- 👀 I’m interested in health + social behavior + data
-- 🧩 I’m looking to collaborate on projects that improve quality of life
+- 👀 I’m interested in technology + data
+- 🧩 I’m looking to collaborate on challenging high impact projects
 - 📫 How to reach me cacevedotriana@gmail.com
 
 <!---
